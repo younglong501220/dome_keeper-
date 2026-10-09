@@ -1,0 +1,6 @@
+{
+  "name": "Dome Keeper 穹頂守護者",
+  "description": "經典採礦防守冒險遊戲：探索深層地底挖掘礦石、利用彈性繩索拖回資源、升級裝備並在警報響起時操縱穹頂雷射擊退外星生物襲擊！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
